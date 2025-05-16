@@ -1,0 +1,8 @@
+#!C:\Users\Flori\Desktop\ITBA 2024-2025\MLOps seminario intensivo\ITBAmlops2\itba2\Scripts\python.exe
+# -*- coding: UTF-8 -*-
+from __future__ import print_function, division, absolute_import
+
+from numba.misc.numba_entry import main
+
+if __name__ == "__main__":
+    main()
